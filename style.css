@@ -161,3 +161,21 @@ body{
     right: 550px;
   
 }
+
+
+/*--------------Footer--------------*/
+
+
+.footer{
+    background-color: black;
+    color: white;
+   
+ }
+
+ .footer02{
+    max-width: 1140px;
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 20px;
+ }
