@@ -126,3 +126,38 @@ body{
    align-items: center;
    padding:  30px 250px;
 }
+
+.last-img{
+   max-width: 100%;
+   padding: 50px 250px;
+   position: relative;
+}
+.img-text{
+  position: absolute;
+  top: 20px;
+  padding: 100px 600px;
+}
+
+.img-text02{
+    position: absolute;
+    top: 20px;
+    padding: 150px 50px;
+}
+.email{
+    position: absolute;
+    bottom: 30px;
+}
+
+.btn-primary02{
+    position: absolute;
+    border-radius: 5px;
+    background: #ee2f69;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+    bottom: 10px;
+    right: 550px;
+  
+}
