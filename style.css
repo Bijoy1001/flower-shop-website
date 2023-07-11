@@ -120,6 +120,9 @@ body{
     margin: 100px 300px;
    
 }
-.header-picture02{
-    gap: -50px;
+.section{
+   display: flex;
+   gap: 20px;
+   align-items: center;
+   padding:  30px 250px;
 }
