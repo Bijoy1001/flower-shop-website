@@ -111,3 +111,12 @@ body{
 .pic03{
     width: 320px;
 }
+
+.icon{
+    display: flex;
+    background-color: rgba(39, 39, 39, 0.05);;
+    gap: 50px;
+    padding: 50px 300px;
+    margin: 100px 300px;
+   
+}
