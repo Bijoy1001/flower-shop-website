@@ -2,6 +2,9 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
+/*----------------Header Part----------------*/
+
+
 .header{
     background-color: rgba(229, 84, 115, 0.10);
  }
@@ -43,4 +46,68 @@ body{
     background-repeat: no-repeat;
     background-position: bottom right;
 
+}
+
+
+
+/*--------------Main Part--------------*/
+
+
+.sec{
+    max-width: 1140px;
+    text-align: center;
+    margin: auto;
+    padding-top: 150px;
+   
+}
+
+.pink-continer{
+    display: flex;
+    padding: 30px 400px;
+    gap: 20px;
+        
+}
+
+.pink-flower01{
+    width: 350px;
+    height: 450px;
+    background-image: url(images/pngwing\ 6.png);
+    background-repeat: no-repeat;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 70px 0px 30px 30px;
+   
+  
+}
+
+.pic01{
+    width: 348px;
+ }
+
+.pink-flower02{
+    width: 350px;
+    height: 450px;
+    background-image: url(images/pngwing\ 5.png);
+    background-repeat: no-repeat;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 70px 0px 30px 30px;
+}
+
+.pic02{
+    width: 380px;
+    height: 480px;
+}
+
+.pink-flower03{
+    width: 350px;
+    height: 450px;
+    background-image: url(images/pngwing\ 7.png);
+    background-repeat: no-repeat;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 70px 0px 30px 30px;
+}
+.pic03{
+    width: 320px;
 }
